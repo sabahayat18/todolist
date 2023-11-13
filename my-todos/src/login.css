@@ -1,0 +1,40 @@
+.logReg-container {
+    min-Height: 900px;
+}
+
+.logReg-container Col{
+    margin-top: 25px;
+}
+
+.logReg-container h2 {
+    justify-content: center;
+    display: flex;
+}
+
+.form-div {
+    min-height: 600px;
+    padding: 10px;
+
+    -webkit-box-shadow: 10px 10px 11px -8px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 11px -8px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 11px -8px rgba(0,0,0,0.75);
+}
+
+.textfield {
+    width: 20rem;
+}
+
+.login-div {
+    text-align: center;
+}
+
+.login-div p {
+    font-size: 1.2rem;
+}
+
+.login-div button {
+    width: 7rem;
+    height: 3rem;
+    border-radius: 0px;
+    margin-top: 1.1rem;
+}
