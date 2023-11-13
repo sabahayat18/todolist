@@ -10,11 +10,8 @@ function App() {
     <>
     <BrowserRouter>
       <Routes>
-        {/* <Route path="/" element={<Layout />}> */}
           <Route index element={<LogInPage />} />
-          <Route path="/todolistpage" element={<ToDoListPage />} />
-          {/* <Route path="*" element={<NoPage />} /> */}
-        {/* </Route> */}
+          <Route path="/todolistpage" element={<ToDoListPage />} />`  
       </Routes>
     </BrowserRouter>
     </>
