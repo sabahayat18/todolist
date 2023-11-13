@@ -2,7 +2,6 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import './App.css';
 import LogInPage from "./LogInPage";
 import ToDoListPage from "./todolistpage";
-// import Layout from "./Layout";
 
 
 function App() {
